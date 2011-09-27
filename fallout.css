@@ -11,6 +11,10 @@ body {
     font-size: 30px;
 }
 
+a {
+    color: #30da77;
+}
+
 .screen {
     overflow: hidden;
     width: 100%;
